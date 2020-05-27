@@ -1,0 +1,1 @@
+This one acquires the semaphore 3rd (task 3)
